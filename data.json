@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "hjkh",
+      "description": "jkh",
+      "filePaths": []
+    },
+    {
+      "name": "t",
+      "description": "t",
+      "filePaths": [
+        "public\\imagens\\1607830801148-diagrama caso de uso tcc versão 02.png"
+      ]
+    }
+  ]
+}
